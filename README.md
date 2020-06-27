@@ -8,7 +8,7 @@
 Welcome to guide to databricks spark certification ! This repository will help you:
 1. Learn about [Apache Spark framework](https://spark.apache.org/)
 2. Learn to use [pyspark](https://spark.apache.org/docs/latest/api/python/index.html) in databricks enviroment 
-3. Learn about the topics that are required study for the clear [CRT020](https://academy.databricks.com/exam/crt020-python) examination
+3. Learn about the topics that are required study for the clear [CRT020](https://academy.databricks.com/category/certifications) examination
 
 Throughout the guide more emphesis will be given to a code first methodology with minimal theory when covering topics. Following are the pre-requisites to start using this guide:
 
