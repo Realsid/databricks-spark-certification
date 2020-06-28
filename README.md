@@ -1,4 +1,4 @@
-# Unofficial Guide to Databricks Spark Certification (In progress)
+# A Guide to Databricks Spark Certification
 
 
 <p align="center">
