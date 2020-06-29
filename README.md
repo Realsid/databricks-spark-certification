@@ -29,3 +29,27 @@ This guide is suplemented with a [google sheet](https://docs.google.com/spreadsh
 <p align="center">
   <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
 </p>
+## Chapters
+<p align="center">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/chapter1_preview.jpg">
+</p>
+## Diagrams
+<p align="center">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+</p>
+## Isightful Markdown
+<p align="center">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+</p>
+## Tricks and tips
+<p align="center">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+</p>
+## Excercises
+<p align="center">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+</p>
+## Solutions
+<p align="center">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+</p>
