@@ -44,7 +44,7 @@ This guide is suplemented with a [google sheet](https://docs.google.com/spreadsh
 >  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/diagrams.jpg">
 ></p>
 
-## Isightful Markdown
+## Insightful Markdown
 
 ><p align="center">
 >  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/insightful_markdown.JPG">
