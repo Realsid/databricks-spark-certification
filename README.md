@@ -23,3 +23,9 @@ Once you setup the account download the .DBC files and upload it to your databri
 3. Upload the databricks-spark-certification.dbc file![](https://github.com/Realsid/databricks-spark-certification/blob/master/assets/step3.png)
 
 This guide is suplemented with a [google sheet](https://docs.google.com/spreadsheets/d/1QOymDzCGG0LgzoFbSdwMPMEfysVwQs2oyTiIagSBSKM/edit?usp=sharing) where you can find topic wise breakup of material provided in the guide.
+
+# Snippets
+## Contents
+<p align="center">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+</p>
