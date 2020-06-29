@@ -25,31 +25,44 @@ Once you setup the account download the .DBC files and upload it to your databri
 This guide is suplemented with a [google sheet](https://docs.google.com/spreadsheets/d/1QOymDzCGG0LgzoFbSdwMPMEfysVwQs2oyTiIagSBSKM/edit?usp=sharing) where you can find topic wise breakup of material provided in the guide.
 
 # Snippets
+
 ## Contents
 <p align="center">
   <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
 </p>
+
 ## Chapters
+
 <p align="center">
   <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/chapter1_preview.jpg">
 </p>
+
 ## Diagrams
+
 <p align="center">
-  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/diagrams.jpg">
 </p>
+
 ## Isightful Markdown
+
 <p align="center">
-  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/insightful_markdown.JPG">
 </p>
+
 ## Tricks and tips
+
 <p align="center">
-  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/experience.jpg">
 </p>
-## Excercises
+
+## Scenario based exercises
+
 <p align="center">
-  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/scenario_based_excercise.JPG">
 </p>
+
 ## Solutions
+
 <p align="center">
-  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/solutions.JPG">
 </p>
