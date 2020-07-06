@@ -1,6 +1,6 @@
 # A Guide to Databricks Spark Certification
 
-
+[![Stars](https://img.shields.io/github/stars/Realsid/databricks-spark-certification?style=social)](https://github.com/Realsid/databricks-spark-certification) 
 <p align="center">
   <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/db-logo.png">
 </p>
